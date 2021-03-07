@@ -32,7 +32,8 @@ experience:
         Responsibilities include:     
         
         * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.
-        * Model Machine learning algorithm to assist various product team decisions.
+        * Model Machine learning algorithm to assist various product team decisions. 
+        * jjjjjj  
  
  - title: Head Teaching Assistant
     company: Purdue Data Mine
