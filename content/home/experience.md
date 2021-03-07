@@ -52,17 +52,18 @@ experience:
         * Deploying
         * aaaaaa
     
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+  - title: Head Teaching Assistant
+    company: Purdue Data Mine
+    company_url: 'https://datamine.purdue.edu/'
+    location: West Layette, IN
+    date_start: '2019-08-15'
+    date_end: ''
     description: |2-
+        Purdue Dta Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        * aaaaaa
+        * Supervising a group of 12 TAs
+        * Co-writting projects
+        * Holding Office hours
+        * Contributing to the DataMine example book
 ---
