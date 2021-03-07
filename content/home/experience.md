@@ -50,17 +50,15 @@ experience:
         * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.  
         * Modelled Machine learning algorithms to assist various product teams decisions.  
 
-  - title: Head Teaching Assistant
-    company: Purdue Data Mine 
-    company_url: 'https://datamine.purdue.edu/'
+  - title: Statistics Consultant
+    company: Purdue Statistical Consultant Service 
+    company_url: 'https://www.stat.purdue.edu/scs/index.html'
     location: West Layette, IN
-    date_start: '2017-08-15'
-    date_end: ''  
+    date_start: '2015-08-15'
+    date_end: '2018-12-15'  
     description: |2-  
-        Purdue Data Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
-        
-        Responsibilities include:  
-        
+        Responsibilities include:      
+                
         * Supervising a group of 12 TAs  
         * Co-writting projects  
         * Holding office hours  
