@@ -29,8 +29,8 @@ experience:
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
-        Purdue DataMine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.
-    description: |2-
+        Purdue DataMine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
+        
         Responsibilities include:
         
         * Analysing
