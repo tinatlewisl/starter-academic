@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Head Teaching Assistant
-    company: GenCoin
+    company: Purdue Data Mine 19000 The first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.
     company_url: ''
     location: California
     date_start: '2017-01-01'
