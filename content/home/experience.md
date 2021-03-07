@@ -34,7 +34,9 @@ experience:
         Responsibilities include:  
         
         * Supervising a group of 12 TAs  
-        * Co-writting projects
+        * Co-writting projects  
+        * Holding office hours  
+        * Contributing to the DataMine example book
 
 
 ---
