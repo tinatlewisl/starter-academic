@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Data Science Intern
-    company: Asana 
-    company_url: 'https://asana.com'
-    location: San Francisco, CA
-    date_start: '2018-05-01'
-    date_end: '2018-08-30'
+  - title: Head Teaching Assistant
+    company: Purdue Data Mine 
+    company_url: 'https://datamine.purdue.edu/'
+    location: West Layette, IN
+    date_start: '2019-08-15'
+    date_end: ''
 
 ---
