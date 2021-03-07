@@ -41,7 +41,7 @@ experience:
     date_start: '2019-08-15'
     date_end: ''
     description: |2-
-        Purdue Dta Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
+        Purdue Data Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
         
         Responsibilities include:
         
@@ -49,4 +49,6 @@ experience:
         * Co-writting projects
         * Holding Office hours
         * Contributing to the DataMine example book
+
+
 ---
