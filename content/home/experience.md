@@ -27,8 +27,9 @@ experience:
     company_url: 'https://datamine.purdue.edu/'
     location: West Layette, IN
     date_start: '2019-08-15'
-    date_end: ''
-    description: |2- Purdue Data Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
+    date_end: ''  
+    description: |2-  
+        Purdue Data Mine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
 
 
 ---
