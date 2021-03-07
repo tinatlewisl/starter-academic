@@ -23,14 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Head Teaching Assistant
-    company: Purdue Data Mine 19000 The first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.
+    company: Purdue Data Mine 
     company_url: ''
     location: California
     date_start: '2017-01-01'
     date_end: ''
     description: |2-
+        Purdue DataMine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.
         Responsibilities include:
-        
+       
         * Analysing
         * Modelling
         * Deploying
