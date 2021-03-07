@@ -66,4 +66,16 @@ experience:
         * Co-writting projects
         * Holding Office hours
         * Contributing to the DataMine example book
+    
+  - title: Data Science Intern
+    company: Asana
+    company_url: 'https://asana.com/?noredirect'
+    location: San Francisco, CA
+    date_start: '2018-05-01'
+    date_end: '2018-09-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.
+        * Model Machine learning algorithm to assist various product team decisions.
 ---
