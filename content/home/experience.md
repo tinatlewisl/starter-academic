@@ -34,6 +34,7 @@ experience:
         * Analysing
         * Modelling
         * Deploying
+        * aaaaaa
         
   - title: Professor
     company: University X
