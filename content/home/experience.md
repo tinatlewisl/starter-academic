@@ -37,20 +37,6 @@ experience:
         * Modelling
         * Deploying
         * aaaaaa
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        * aaaaaa
     
   - title: Head Teaching Assistant
     company: Purdue Data Mine
