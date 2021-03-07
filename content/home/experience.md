@@ -59,8 +59,9 @@ experience:
     description: |2-  
         Responsibilities include:      
                 
-        * Supervising a group of 12 TAs  
-        * Co-writting projects  
-        * Holding office hours  
-        * Contributing to the DataMine example book
+        * Worked on 50+ consulting projects on fields such as: Engineering, Social Sciences, Natural Sciences, Hotel Management, Linguistics.  
+        * Assisted clients at each of the fundamental statistical modeling steps: defining scope of project, design of experiment, data quality control, data analysis andm visualization, results interpretation and writing for journal publication, technical report and grant proposal.  
+        * Met one-on-one with clients to help with computer code and running statistical analysis and machine learning projects using R, SAS, SPSS, MATLAB and SQL.  
+        * Projects include social network analysis, power analysis and sample size calculation for complex experimental designs, analysis of large time series data, analysis on datasets with missing values, evaluation metrics engineering.  
+        * Co-authored the free manual titled "Introduction to the Statistical Software R", providing a quick introduction to R for the use of faculty and students at Purdue University.
 ---
