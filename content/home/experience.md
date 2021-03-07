@@ -22,22 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Head Teaching Assistant
-    company: Purdue Data Mine 
-    company_url: 'https://datamine.purdue.edu/'
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: Data Science Intern
+    company: Asana 
+    company_url: 'https://asana.com'
+    location: San Francisco, CA
+    date_start: '2018-05-01'
+    date_end: '2018-08-30'
     description: |2-
-        Purdue DataMine is the first large-scale living learning community for undergraduates from all majors, focused on Data Science for All.  
+        Responsibilities include:     
         
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Built a Machine learning interpretability tool to facilitate business team understanding of machine learning results.
+        * Model Machine learning algorithm to assist various product team decisions.
         * aaaaaa
-    
+
   - title: Head Teaching Assistant
     company: Purdue Data Mine
     company_url: 'https://datamine.purdue.edu/'
