@@ -33,7 +33,8 @@ experience:
         
         Responsibilities include:  
         
-        * Supervising a group of 12 TAs
+        * Supervising a group of 12 TAs  
+        * Co-writting projects
 
 
 ---
