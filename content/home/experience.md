@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Head Teaching Assistant
     company: Purdue Data Mine 
-    company_url: ''
+    company_url: 'https://datamine.purdue.edu/'
     location: California
     date_start: '2017-01-01'
     date_end: ''
