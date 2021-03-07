@@ -39,11 +39,7 @@ experience:
         * Contributing to the DataMine example book  
 
   - title: Data Science Intern  
-    company: Asana
-    company_url: 'https://asana.com'
-    location: San Francisco, CA
-    date_start: '2018-05-01'
-    date_end: '2018-09-31'
+
 
 
 ---
